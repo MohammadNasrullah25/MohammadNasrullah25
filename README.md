@@ -23,16 +23,12 @@ I am a B.Tech (Computer Science) graduate passionate about Java Backend Developm
 - Spring Security
 - Docker
 - Microservices
-- System Design
 
 ---
 
 ## 📌 Featured Projects
 
-- 🎓 Student Management System
-- 👨‍💼 Employee Management System
-- 📚 Library Management System
-- 🌐 REST API Projects
+- 🎓 Student Recoard management API
 
 ---
 
